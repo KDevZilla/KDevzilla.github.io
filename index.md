@@ -1,8 +1,19 @@
 ## Welcome to GitHub Pages
 
+Samples of my project
+
+[MineSweeper](https://github.com/KDevZilla/MineSweeper) \
+[PuppyBox](https://github.com/KDevZilla/PuppyBox) \
+[GemSwap](https://github.com/KDevZilla/GemSwap) \
+[Snake](https://github.com/KDevZilla/Snake) 
+
+
 You can use the [editor on GitHub](https://github.com/KDevZilla/KDevzilla.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
 
 ### Markdown
 
