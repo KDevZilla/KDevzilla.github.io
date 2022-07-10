@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages Projects
+## Welcome to my GitHub Pages Projects
 
 Sample of my projects
 ### MineSweeper
