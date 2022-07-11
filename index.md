@@ -1,7 +1,8 @@
-## Welcome to my GitHub Pages Projects
+# Welcome to my GitHub Pages Projects
 
-Hi My name is Krirk Srithaweewath.
-Here is the list of my projects on Github.
+Hi My name is Krirk Srithaweewath.\
+Here is the list of my projects on Github.\
+You can click the link to go to their repo page to see more detail.
 
 ### MineSweeper
 [MineSweeper](https://github.com/KDevZilla/MineSweeper) \
@@ -20,7 +21,7 @@ Here is the list of my projects on Github.
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/Snake_Screen_01.gif)
 
 
-## Projects relate to Artificial Intelligence
+# Projects relate to Artificial Intelligence
 ### AISolver
 [AISolver](https://github.com/KDevZilla/AISolver)\
 This is a project that uses Artificial Intelligence to solve the problems such as KnapSack, River crossing problems.
