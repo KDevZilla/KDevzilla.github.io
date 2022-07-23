@@ -2,10 +2,10 @@
 
 Hi My name is Krirk Srithaweewath.\
 Here is the list of my projects on Github.\
-You can just click Download zip file to download the file directly.
+You can just click Download zip file to download the programs directly.
 
 
-All of Download zip file links, you can just download them then unzip and double click .exe to run programs
+All of the Download zip file links, you can just download them then unzip then double click .exe to run the programs.
 
 
 If you would like to get the souce code you can click Link to source code.
