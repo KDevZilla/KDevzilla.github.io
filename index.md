@@ -9,7 +9,7 @@ All of the Download zip file links, you can just download them then unzip then d
 
 
 If you would like to get the souce code you can click Link to source code.
-
+Also if you don't know how to use the programs, you can click Link to source code it will tell you how to use the program.
 
 ### MineSweeper
 [Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/MineSweeper.zip) \
@@ -30,6 +30,11 @@ If you would like to get the souce code you can click Link to source code.
 [Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/Snake.zip) \
 [Link to source code](https://github.com/KDevZilla/Snake) \
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/Snake_Screen_01.gif)
+
+### SharpPong
+[Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/SharpPong.zip) \
+[Link to source code](https://github.com/KDevZilla/SharpPong) \
+![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/Pong_Screen_01.gif)
 
 
 # Projects relate to Artificial Intelligence
