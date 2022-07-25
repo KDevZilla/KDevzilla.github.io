@@ -37,7 +37,7 @@ Also if you don't know how to use the programs, you can click Link to source cod
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/Pong_Screen_01.gif)
 
 
-# Projects relate to Artificial Intelligence
+# Non Game projects.
 ### AISolver
 [Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/AISolver.zip)\
 [Link to source code](https://github.com/KDevZilla/AISolver)\
@@ -51,5 +51,11 @@ This is a project that uses Artificial Intelligence to solve the problems such a
 [Link to source code](https://github.com/KDevZilla/ZipExe/raw/main/AStar.zip)\
 This is a project that user A* search algorithm to find the shortest path in a maze.
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/AStar_Screen_01.png)
+
+### Password Generator
+[Download zip file](https://github.com/KDevZilla/SharpPasswordGenerator/releases/download/v1.0.0/SharpPasswordGenerator.zip)\
+[Link to source code](https://github.com/KDevZilla/SharpPasswordGenerator)\
+This is a project that can help you generate random passwords.
+![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/SharpPasswordGenerator_Screen_01.png)
 
 
