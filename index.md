@@ -36,6 +36,11 @@ Also if you don't know how to use the programs, you can click Link to source cod
 [Link to source code](https://github.com/KDevZilla/SharpPong) \
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/Pong_Screen_01.gif)
 
+### Kakurasu
+[Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/Kakurasu.zip) \
+[Link to source code](https://github.com/KDevZilla/kakurasu) \
+![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/Kakurasu_Screen_01.png)
+
 
 # Non Game projects.
 ### AISolver
