@@ -41,6 +41,10 @@ Also if you don't know how to use the programs, you can click Link to source cod
 [Link to source code](https://github.com/KDevZilla/kakurasu) \
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/Kakurasu_Screen_01.png)
 
+### SimpleMathQuiz
+[Download zip file](https://github.com/KDevZilla/ZipExe/blob/main/SimpleMathQuiz.zip) \
+[Line to source code](https://github.com/KDevZilla/SimpleMathQuiz)
+![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/SimpleMathQuiz_Screen_01.png)
 
 # Non Game projects.
 ### AISolver
