@@ -7,9 +7,9 @@ You can just click Download zip file to download the programs directly.
 
 All of the Download zip file links, you can just download them then unzip then double click .exe to run the programs.
 
-You click Project Information and source code when
-	1. You would like to download the code.
-	2. You would like to see more program information such as the rult to play game.
+You click Project Information and source code when\
+	1. You would like to download the code.\
+	2. You would like to see more program information such as the rule or how to play game.
 	
 
 ### MineSweeper
@@ -50,7 +50,7 @@ You click Project Information and source code when
 
 ### SimpleMathQuiz
 [Download zip file](https://github.com/KDevZilla/ZipExe/blob/main/SimpleMathQuiz.zip) \
-[Line to source code](https://github.com/KDevZilla/SimpleMathQuiz)
+[Project Information and source code](https://github.com/KDevZilla/SimpleMathQuiz)
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/SimpleMathQuiz_Screen_01.png)
 
 # Non Game projects.
