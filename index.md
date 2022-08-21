@@ -48,6 +48,10 @@ You click Project Information and source code when\
 ) \
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/SkyCraperScreen_Sample01.png)
 
+### ReadYourMind
+[Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/ReadYourMind.zip)\
+[Project Information and source code](https://github.com/KDevZilla/ReadYourMind)
+![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/Read_Your_Mind_Screen01.png)
 ### SimpleMathQuiz
 [Download zip file](https://github.com/KDevZilla/ZipExe/blob/main/SimpleMathQuiz.zip) \
 [Project Information and source code](https://github.com/KDevZilla/SimpleMathQuiz)
