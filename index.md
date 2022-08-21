@@ -67,8 +67,8 @@ This is a project that uses Artificial Intelligence to solve the problems such a
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/AISolver_KnapSack_01.png)
 
 ### AStar
-[Download zip file](https://github.com/KDevZilla/AStar)\
-[Project Information and source code](https://github.com/KDevZilla/ZipExe/raw/main/AStar.zip)\
+[Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/AStar.zip)\
+[Project Information and source code](https://github.com/KDevZilla/AStar)\
 This is a project that user A* search algorithm to find the shortest path in a maze.
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/AStar_Screen_01.png)
 
