@@ -1,4 +1,4 @@
-# Welcome to my GitHub Pages Projects
+## Welcome to my GitHub Pages Projects
 
 Hi My name is Krirk Srithaweewath.\
 Here is the list of my projects on Github.\
@@ -57,7 +57,7 @@ You click Project Information and source code when\
 [Project Information and source code](https://github.com/KDevZilla/SimpleMathQuiz)
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/SimpleMathQuiz_Screen_01.png)
 
-# Non Game projects.
+## Non Game projects.
 ### AISolver
 [Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/AISolver.zip)\
 [Project Information and source code](https://github.com/KDevZilla/AISolver)\
