@@ -13,11 +13,13 @@ You click Project Information and source code when\
 	
 
 ### MineSweeper
+[Article on Devto](https://dev.to/kdevzilla/minesweeper-c-1h82) \
 [Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/MineSweeper.zip) \
 [Project Information and source code](https://github.com/KDevZilla/MineSweeper) \
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/MineSweeper_Animation_01.gif)
 
 ### PuppyBox
+[Article on Devto](https://dev.to/kdevzilla/puppybox-12dm) \
 [Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/PuppyBox.zip) \
 [Project Information and source code](https://github.com/KDevZilla/PuppyBox) \
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/PuppyBox_Animation01.gif)
