@@ -6,7 +6,7 @@ Update Page 2022-11-19
 Hi My name is Krirk Srithaweewath.\
 Here is the list of my projects on Github.\
 You can just click Download zip file to download the programs directly.
-
+Some of the program will also have a link to an article I submitted.
 
 All of the Download zip file links, you can just download them then unzip then double click .exe to run the programs.
 
