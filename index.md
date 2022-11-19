@@ -13,7 +13,11 @@ All of the Download zip file links, you can just download them then unzip then d
 You click Project Information and source code when\
 	1. You would like to download the code.\
 	2. You would like to see more program information such as the rule or how to play game.
-	
+### SharpWord
+[Article](https://github.com/KDevZilla/ArticlesPublic/blob/main/Sharpword.md)  
+[Download zip file](https://github.com/KDevZilla/Sharpword/releases/download/v1.0.0/SharpWord.zip) \
+[Project Information and source code](https://github.com/KDevZilla/Sharpword/) \
+![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/SharpWord01.gif)
 
 ### MineSweeper
 [Article on Devto](https://dev.to/kdevzilla/minesweeper-c-1h82) \
