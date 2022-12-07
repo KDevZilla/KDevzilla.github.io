@@ -1,5 +1,5 @@
 
-Update Page 2022-11-19
+Update Page 2022-12-07
 
 
 
@@ -13,6 +13,17 @@ All of the Download zip file links, you can just download them then unzip then d
 You click Project Information and source code when\
 	1. You would like to download the code.\
 	2. You would like to see more program information such as the rule or how to play game.
+### KReversi
+[Article on codeprojects](https://www.codeproject.com/Articles/5348843/KReversi-Learn-to-Implement-Minimax-Algorithm-by-C)  
+[Download zip file](https://github.com/KDevZilla/KReversi/releases/download/v1.0.0/KReversi.zip) \
+[Project Information and source code](https://github.com/KDevZilla/KReversi/) \
+
+![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/KReversi/000_Main_KReversi.png) \
+
+
+Click here if you want to see a gif animation of how the program works \
+[Animation](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/KReversi/KReversi_Animaton_2022_11_20.gif)
+
 ### SharpWord
 [Article on codeprojects](https://www.codeproject.com/Articles/5347429/Sharpword)  
 [Download zip file](https://github.com/KDevZilla/Sharpword/releases/download/v1.0.0/SharpWord.zip) \
