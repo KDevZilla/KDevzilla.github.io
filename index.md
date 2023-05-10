@@ -17,9 +17,9 @@ You click Project Information and source code when\
 ### KReversi
 [Article on codeprojects](https://www.codeproject.com/Articles/5348843/KReversi-Learn-to-Implement-Minimax-Algorithm-by-C)  
 [Download zip file](https://github.com/KDevZilla/KReversi/releases/download/v1.0.0/KReversi.zip) \
-[Project Information and source code](https://github.com/KDevZilla/KReversi/) \
+[Project Information and source code](https://github.com/KDevZilla/KReversi/) 
 
-![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/KReversi/000_Main_KReversi.png) \
+![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/KReversi/000_Main_KReversi.png) 
 
 
 Click here if you want to see a gif animation of how the program works \
