@@ -38,7 +38,7 @@ Click here if you want to see a gif animation of how the program works \
 ### Sokoban
 [Download zip file](https://github.com/KDevZilla/Sokoban/releases/download/v1.0.0/Sokoban.zip) \
 [Project Information and source code](https://github.com/KDevZilla/sokoban) \
-![Image Image](https://github.com/KDevZilla/ImageUpload/blob/main/Sokoban/Sokoban.png)  
+![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/Sokoban/Sokoban.png)  
 
 
 ### KTetris
