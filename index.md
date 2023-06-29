@@ -1,19 +1,29 @@
 
-Update Page 2023-05-10
+Update Page 2023-06-29
 
 
 
 
 Hi My name is Krirk Srithaweewath.\
-Here is the list of my projects on Github.\
+Here is the list of my projects on GitHub.\
 You can just click Download zip file to download the programs directly.\
-Some of the program will also have a link to an article I submitted.
+Some of the programs will also have a link to an article I submitted.
 
-All of the Download zip file links, you can just download them then unzip then double click .exe to run the programs.
+For all of the Download zip file links, you can just download them then unzip then double click .exe to run the programs.
 
 You click Project Information and source code when\
 	1. You would like to download the code.\
-	2. You would like to see more program information such as the rule or how to play game.
+	2. You would like to see more program information such as the rule or how to play the game.
+ 
+### 2048
+[Download zip file](https://github.com/KDevZilla/Sharp2048/releases/download/v1.0.0/2048.zip) \
+[Project Information and source code](https://github.com/KDevZilla/Sharp2048/) 
+
+
+
+![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/2048/2048.png) 
+
+
 ### KReversi
 [Article on codeprojects](https://www.codeproject.com/Articles/5348843/KReversi-Learn-to-Implement-Minimax-Algorithm-by-C)  
 [Download zip file](https://github.com/KDevZilla/KReversi/releases/download/v1.0.0/KReversi.zip) \
@@ -84,6 +94,17 @@ Click here if you want to see a gif animation of how the program works \
 [Project Information and source code](https://github.com/KDevZilla/Skyscraper
 ) \
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/SkyCraperScreen_Sample01.png)
+
+
+### Bull and Cow
+[Download zip file](https://github.com/KDevZilla/BullandCow/releases/download/v1.0.0/BullAndCow.zip) \
+[Project Information and source code](https://github.com/KDevZilla/bullandcow) 
+
+
+
+![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/Bull_and_Cow/Bull_and_Cow.png) 
+
+
 
 ### ReadYourMind
 [Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/ReadYourMind.zip)\
