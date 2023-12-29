@@ -1,5 +1,5 @@
 
-Update Page 2023-06-29
+Update Page 2023-12-30
 
 
 
@@ -14,7 +14,11 @@ For all of the Download zip file links, you can just download them then unzip th
 You click Project Information and source code when\
 	1. You would like to download the code.\
 	2. You would like to see more program information such as the rule or how to play the game.
- 
+### Slide Puzzle
+[Download zip file](https://github.com/KDevZilla/SlidePuzzle/releases/download/v1.0.0/SlidePuzzle.zip) \
+[Project Information and source code](https://github.com/KDevZilla/SlidePuzzle)   
+![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/SlidePuzzle/SlidePuzzle_01.png)  
+
 ### 2048
 [Download zip file](https://github.com/KDevZilla/Sharp2048/releases/download/v1.0.0/2048.zip) \
 [Project Information and source code](https://github.com/KDevZilla/Sharp2048/) 
