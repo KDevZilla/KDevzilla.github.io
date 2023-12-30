@@ -33,7 +33,7 @@ You click Project Information and source code when\
 [Download zip file](https://github.com/KDevZilla/KReversi/releases/download/v1.0.0/KReversi.zip) \
 [Project Information and source code](https://github.com/KDevZilla/KReversi/) 
 
-![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/KReversi/000_Main_KReversi.png) 
+![Image Image](https://github.com/KDevZilla/ImageUpload/blob/main/KReversi/New/002.png) 
 
 
 Click here if you want to see a gif animation of how the program works \
@@ -65,7 +65,7 @@ Click here if you want to see a gif animation of how the program works \
 [Article on Devto](https://dev.to/kdevzilla/minesweeper-c-1h82) \
 [Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/MineSweeper.zip) \
 [Project Information and source code](https://github.com/KDevZilla/MineSweeper) \
-![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/MineSweeper_Animation_01.gif)
+![Image Image](https://github.com/KDevZilla/ImageUpload/blob/main/MineSweeper/MineSweeper_01.png)  
 
 ### PuppyBox
 [Article on Devto](https://dev.to/kdevzilla/puppybox-12dm) \
