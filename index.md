@@ -9,11 +9,11 @@ Here is the list of my projects on GitHub.\
 You can just click Download zip file to download the programs directly.\
 Some of the programs will also have a link to an article I submitted.
 
-For all of the Download zip file links, you can just download them then unzip then double click .exe to run the programs.
+For all of the Download zip file links, you can just download them unzip then double click .exe to run the programs.
 
 You click Project Information and source code when\
 	1. You would like to download the code.\
-	2. You would like to see more program information such as the rule or how to play the game.
+	2. You would like to see more program information such as the rules or how to play the game.
 ### Slide Puzzle
 [Download zip file](https://github.com/KDevZilla/SlidePuzzle/releases/download/v1.0.0/SlidePuzzle.zip) \
 [Project Information and source code](https://github.com/KDevZilla/SlidePuzzle)   
@@ -119,11 +119,11 @@ Click here if you want to see a gif animation of how the program works \
 [Project Information and source code](https://github.com/KDevZilla/SimpleMathQuiz)
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/SimpleMathQuiz_Screen_01.png)
 
-## Non Game projects.
+## Non-Game projects.
 ### AISolver
 [Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/AISolver.zip)\
 [Project Information and source code](https://github.com/KDevZilla/AISolver)\
-This is a project that uses Artificial Intelligence to solve the problems such as KnapSack, River crossing problems.
+This is a project that uses Artificial Intelligence to solve problems such as KnapSack and river crossing problems.
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/AISolver_Crossing_River_01.png)
 
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/AISolver_KnapSack_01.png)
@@ -131,7 +131,7 @@ This is a project that uses Artificial Intelligence to solve the problems such a
 ### AStar
 [Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/AStar.zip)\
 [Project Information and source code](https://github.com/KDevZilla/AStar)\
-This is a project that user A* search algorithm to find the shortest path in a maze.
+This is a project that uses an A* search algorithm to find the shortest path in a maze.
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/AStar_Screen_01.png)
 
 ### Password Generator
@@ -139,5 +139,21 @@ This is a project that user A* search algorithm to find the shortest path in a m
 [Project Information and source code](https://github.com/KDevZilla/SharpPasswordGenerator)\
 This is a project that can help you generate random passwords.\
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/SharpPasswordGenerator_Screen_01.png)
+
+### Kontrol Service 
+[Download zip file](https://github.com/KDevZilla/KontrolService/releases/download/v1.0/KontrolService.zip) \
+[Project Information and source code](https://github.com/KDevZilla/KontrolService)   
+This program allows you to manage the windows services.\
+![Image Image](https://github.com/KDevZilla/ImageUpload/blob/main/KontrolService/Kontrol_Services_00.png)  
+
+
+
+### ZFile 
+[Download zip file](https://github.com/KDevZilla/ZFile/releases/download/v1.0/ZFile.zip) \
+[Project Information and source code](https://github.com/KDevZilla/ZFile)   
+This program will help you delete files.\
+![Image Image](https://github.com/KDevZilla/ImageUpload/blob/main/ZFile/ZFileUtils_01.png)  
+
+
 
 
