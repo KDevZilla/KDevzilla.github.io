@@ -65,7 +65,7 @@ Click here if you want to see a GIF animation of how the program works \
 [Article on Devto](https://dev.to/kdevzilla/minesweeper-c-1h82) \
 [Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/MineSweeper.zip) \
 [Project Information and source code](https://github.com/KDevZilla/MineSweeper) \
-![Image Image](https://github.com/KDevZilla/ImageUpload/blob/main/MineSweeper/MineSweeper_01.png)  
+![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/MineSweeper/MineSweeper_01.png)  
 
 ### PuppyBox
 [Article on Devto](https://dev.to/kdevzilla/puppybox-12dm) \
