@@ -43,7 +43,7 @@ Click here if you want to see a gif animation of how the program works \
 [Article on codeprojects](https://www.codeproject.com/Articles/5347429/Sharpword)  
 [Download zip file](https://github.com/KDevZilla/Sharpword/releases/download/v1.0.0/SharpWord.zip) \
 [Project Information and source code](https://github.com/KDevZilla/Sharpword/) \
-![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/SharpWorld_Screen01.png)  
+![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/Sharpword/SharpWord_01.png)  
 
 Click here if you want to see a gif animation of how the program works \
 [Animation](https://user-images.githubusercontent.com/108615376/202889375-d00a5528-a166-4252-ba0f-22f3a0217425.gif)
