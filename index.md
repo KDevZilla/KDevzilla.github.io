@@ -33,10 +33,10 @@ You click Project Information and source code when\
 [Download zip file](https://github.com/KDevZilla/KReversi/releases/download/v1.0.0/KReversi.zip) \
 [Project Information and source code](https://github.com/KDevZilla/KReversi/) 
 
-![Image Image](https://github.com/KDevZilla/ImageUpload/blob/main/KReversi/New/002.png) 
+![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/KReversi/New/002.png) 
 
 
-Click here if you want to see a gif animation of how the program works \
+Click here if you want to see a GIF animation of how the program works \
 [Animation](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/KReversi/KReversi_Animaton_2022_11_20.gif)
 
 ### SharpWord
@@ -45,7 +45,7 @@ Click here if you want to see a gif animation of how the program works \
 [Project Information and source code](https://github.com/KDevZilla/Sharpword/) \
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/Sharpword/SharpWord_01.png)  
 
-Click here if you want to see a gif animation of how the program works \
+Click here if you want to see a GIF animation of how the program works \
 [Animation](https://user-images.githubusercontent.com/108615376/202889375-d00a5528-a166-4252-ba0f-22f3a0217425.gif)
 
 
