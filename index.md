@@ -144,7 +144,7 @@ This is a project that can help you generate random passwords.\
 [Download zip file](https://github.com/KDevZilla/KontrolService/releases/download/v1.0/KontrolService.zip) \
 [Project Information and source code](https://github.com/KDevZilla/KontrolService)   
 This program allows you to manage the windows services.\
-![Image Image](https://github.com/KDevZilla/ImageUpload/blob/main/KontrolService/Kontrol_Services_00.png)  
+![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/KontrolService/Kontrol_Services_00.png)  
 
 
 
@@ -152,7 +152,7 @@ This program allows you to manage the windows services.\
 [Download zip file](https://github.com/KDevZilla/ZFile/releases/download/v1.0/ZFile.zip) \
 [Project Information and source code](https://github.com/KDevZilla/ZFile)   
 This program will help you delete files.\
-![Image Image](https://github.com/KDevZilla/ImageUpload/blob/main/ZFile/ZFileUtils_01.png)  
+![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/ZFile/ZFileUtils_01.png)  
 
 
 
