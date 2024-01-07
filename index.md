@@ -52,9 +52,13 @@ Click here if you want to see a GIF animation of how the program works \
 [Project Information and source code](https://github.com/KDevZilla/Sharpword/) \
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/Sharpword/SharpWord_01.png)  
 
-Click here if you want to see a GIF animation of how the program works \
-[Animation](https://user-images.githubusercontent.com/108615376/202889375-d00a5528-a166-4252-ba0f-22f3a0217425.gif)
-
+Click here if you want to see a GIF animation of how the program works \  
+[Animation](https://user-images.githubusercontent.com/108615376/202889375-d00a5528-a166-4252-ba0f-22f3a0217425.gif)  
+  
+### Connect4  
+[Download zip file](https://github.com/KDevZilla/Connect4/releases/download/v1.0.0/Connect4.zip) \  
+[Project Information and source code](https://github.com/KDevZilla/Connect4) \  
+![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/Connect4/Connect_4_01.png)  
 
 ### Sokoban
 [Download zip file](https://github.com/KDevZilla/Sokoban/releases/download/v1.0.0/Sokoban.zip) \
