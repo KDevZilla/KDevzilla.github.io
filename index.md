@@ -102,13 +102,12 @@ Click here if you want to see a GIF animation of how the program works \
 ### Kakurasu
 [Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/Kakurasu.zip) \
 [Project Information and source code](https://github.com/KDevZilla/kakurasu) \
-![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/Kakurasu_Screen_01.png)
+![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/Kakurasu/2024_02_05_00_54_46_Kakurasu.png)
 
-### Skyscraper
-[Download zip file](https://github.com/KDevZilla/Skyscraper/releases/download/v1.0.0/Skyscraper.zip) \
-[Project Information and source code](https://github.com/KDevZilla/Skyscraper
-) \
-![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/SkyCraperScreen_Sample01.png)
+### Tower
+[Download zip file](https://github.com/KDevZilla/TowerPuzzle/releases/download/v1.0.0/TowerPuzzle.zip) \
+[Project Information and source code](https://github.com/KDevZilla/TowerPuzzle) \
+![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/TowerPuzzle/2024_02_05_01_26_00_Tower.png)  
 
 
 ### Bull and Cow
