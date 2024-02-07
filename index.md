@@ -15,6 +15,7 @@ You click Project Information and source code when\
 	1. You would like to download the code.\
 	2. You would like to see more program information such as the rules or how to play the game.  
 ### Kaldoku  
+[Article on codeprojects](https://www.codeproject.com/Articles/5375124/Kaldoku-game)  
 [Download zip file](https://github.com/KDevZilla/Kaldoku/releases/download/v1.0.0/Kaldoku.zip) \
 [Project Information and source code](https://github.com/KDevZilla/Kaldoku)  
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/Kaldoku/Kaldoku_01.png)  
