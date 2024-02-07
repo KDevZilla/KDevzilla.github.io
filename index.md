@@ -19,6 +19,16 @@ You click Project Information and source code when\
 [Project Information and source code](https://github.com/KDevZilla/Kaldoku)  
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/Kaldoku/Kaldoku_01.png)  
 
+### Kakurasu
+[Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/Kakurasu.zip) \
+[Project Information and source code](https://github.com/KDevZilla/kakurasu) \
+![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/Kakurasu/2024_02_05_00_54_46_Kakurasu.png)  
+
+### Tower
+[Download zip file](https://github.com/KDevZilla/TowerPuzzle/releases/download/v1.0.0/TowerPuzzle.zip) \
+[Project Information and source code](https://github.com/KDevZilla/TowerPuzzle) \
+![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/TowerPuzzle/2024_02_05_01_26_00_Tower.png)  
+
 
 ### SharpMoku
 [Download zip file](https://github.com/KDevZilla/SharpMoku/releases/download/v1.0.0/SharpMoku.zip) \
@@ -103,16 +113,6 @@ Click here if you want to see a GIF animation of how the program works \
 [Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/SharpPong.zip) \
 [Project Information and source code](https://github.com/KDevZilla/SharpPong) \
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/Pong_Screen_01.gif)
-
-### Kakurasu
-[Download zip file](https://github.com/KDevZilla/ZipExe/raw/main/Kakurasu.zip) \
-[Project Information and source code](https://github.com/KDevZilla/kakurasu) \
-![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/Kakurasu/2024_02_05_00_54_46_Kakurasu.png)
-
-### Tower
-[Download zip file](https://github.com/KDevZilla/TowerPuzzle/releases/download/v1.0.0/TowerPuzzle.zip) \
-[Project Information and source code](https://github.com/KDevZilla/TowerPuzzle) \
-![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/TowerPuzzle/2024_02_05_01_26_00_Tower.png)  
 
 
 ### Bull and Cow
